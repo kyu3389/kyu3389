@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Kyu 👋</h1>
 
 <p align="center">
-  <strong>Full-stack developer and digital product builder at Nera Ajans.</strong>
+  <strong>Full-stack developer and digital product builder at Neray Ajans.</strong>
 </p>
 
 <p align="center">
-  <a href="https://nerayajans.com/"><img src="https://img.shields.io/badge/Nera%20Ajans-nerayajans.com-2ea44f?style=flat-square&logo=vercel" alt="Nera Ajans" /></a>
+  <a href="https://nerayajans.com/"><img src="https://img.shields.io/badge/Neray%20Ajans-nerayajans.com-2ea44f?style=flat-square&logo=vercel" alt="Neray Ajans" /></a>
 </p>
 
-## Building with Nera Ajans
+## Building with Neray Ajans
 
-At [Nera Ajans](https://nerayajans.com/), we design and develop premium digital experiences that help brands turn clear strategy into measurable outcomes.
+At [Neray Ajans](https://nerayajans.com/), we design and develop premium digital experiences that help brands turn clear strategy into measurable outcomes.
 
 - **Conversion-focused websites** — modern, responsive corporate sites with clear information architecture and strong calls to action.
 - **SaaS & B2B product experiences** — modular interfaces and scalable systems for growing teams.
@@ -39,5 +39,5 @@ At [Nera Ajans](https://nerayajans.com/), we design and develop premium digital 
 
 ## Connect
 
-- [Nera Ajans](https://nerayajans.com/)
+- [Neray Ajans](https://nerayajans.com/)
 - Contact: [nerayajans.com](https://nerayajans.com/)
